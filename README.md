@@ -1,5 +1,9 @@
 # Immigration Insights
 
+
+https://github.com/user-attachments/assets/7221323c-9d6b-4d3d-b855-b9b690782395
+
+
 **Immigration Insights** is my Python-based project for visualizing recent immigration trends across Canadian geographic areas. By combining census demographic data with spatial shapefiles, this project generates interactive maps using [Folium](https://python-visualization.github.io/folium/), enabling users to explore Canadian immigration trends.
 
 ---
