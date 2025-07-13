@@ -1,0 +1,11 @@
+# Exclude all Data files
+*.csv
+*.geojson
+*.topojson
+*.zip
+*.dbf
+*.prj
+*.shp
+*.shx
+*.xml
+
